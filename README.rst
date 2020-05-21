@@ -5,3 +5,4 @@ branch_test1
 ==============
 
 2kaimeのテスト
+3kaimeのてすと
